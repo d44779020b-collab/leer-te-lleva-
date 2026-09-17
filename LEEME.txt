@@ -1,0 +1,19 @@
+PORTAL CON ENLACES Y SCRATCH EMBEBIDO
+
+Los cuatro proyectos ya están conectados:
+
+1. principal.html -> https://scratch.mit.edu/projects/1382108638/
+2. jardin.html -> https://scratch.mit.edu/projects/1382106946/
+3. hielo.html -> https://scratch.mit.edu/projects/1382107486/
+4. luciernagas.html -> https://scratch.mit.edu/projects/1382107942/
+
+El index.html muestra las tarjetas.
+Cada tarjeta abre una página individual y esa página carga el proyecto de Scratch dentro de un iframe (embebido).
+
+Para publicar:
+- Sube toda la carpeta a un servicio de hosting estático.
+- El QR debe apuntar a la dirección pública de index.html.
+- No uses una ruta local de tu PC como QR: el celular del visitante no podrá acceder a ella.
+
+NOTA:
+Los proyectos deben estar compartidos/publicados en Scratch para que el público pueda acceder.
